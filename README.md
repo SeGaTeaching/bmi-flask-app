@@ -54,3 +54,6 @@ pytest tests/test_bmi_calculator.py
 ## License
 
 This project is licensed under the MIT License.
+
+Alex says hi!
+
